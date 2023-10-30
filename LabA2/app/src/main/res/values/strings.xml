@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LabA2</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="how_was_the_food">How was the food?</string>
+    <string name="great">Great</string>
+    <string name="ok">OK</string>
+    <string name="satisfactory">Satisfactory</string>
+    <string name="terrible">Terrible</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="round_up_tip">Round up tip?</string>
+</resources>
