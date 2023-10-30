@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#616161</color>
+    <color name="gray_light">#6E6E6E</color>
+    <color name="gray_dark">#424242</color>
+
+    <color name="panel_1_light">#fafafa</color>
+    <color name="panel_1_dark">#303030</color>
+
+    <color name="panel_2_light">#eeeeee</color>
+    <color name="panel_2_dark">#424242</color>
+</resources>
