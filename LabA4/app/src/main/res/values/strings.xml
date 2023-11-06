@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LabA4</string>
+
+    <string name="settings">Display settings</string>
+    <string name="maps">Maps</string>
+    <string name="picture">Take a picture</string>
+
+    <string name="custom">Check index</string>
+    <string name="phone_number_placeholder"><![CDATA[<Placeholder for a phone number>]]></string>
+    <string name="enter_index">Enter Index</string>
+    <string name="grade">Grade:</string>
+    <string name="name">Name:</string>
+</resources>
